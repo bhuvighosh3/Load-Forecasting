@@ -42,5 +42,7 @@ This project focuses on forecasting and imputing missing values for electricity 
 - The model successfully predicted known values (December 12, 2020) with **reasonable accuracy**.
 
 ## **Cloning and Setup**
-Open a terminal and run:
+To get started, clone the repository and set up the environment:
+
+```bash
 git clone https://github.com/bhuvighosh3/Load-Forecasting.git
