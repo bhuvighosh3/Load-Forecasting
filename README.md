@@ -40,3 +40,7 @@ This project focuses on forecasting and imputing missing values for electricity 
 - The **ARIMA model** (both univariate and multivariate) effectively forecasted and imputed missing load values.
 - Incorporating exogenous variables **(weather and holidays)** improved model performance.
 - The model successfully predicted known values (December 12, 2020) with **reasonable accuracy**.
+
+## **Cloning and Setup**
+Open a terminal and run:
+git clone https://github.com/bhuvighosh3/Load-Forecasting.git
